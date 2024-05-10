@@ -1,0 +1,1 @@
+hello to anyone reading this! This is my first off-platform project of one of codecademy's courses called "Build a Website with HTML, CSS, and GitHub Pages"! This is my first git publishing remotely project and that's why its small.
